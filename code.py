@@ -5,3 +5,4 @@ add(10,20)
 def mul(a,b):
 	pribt(a*b)
 mul(20,30)
+ 
